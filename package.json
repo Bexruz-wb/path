@@ -1,0 +1,21 @@
+{
+  "name": "uyishi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+     "dev": "node --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bexruz-wb/code-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Bexruz-wb/code-/issues"
+  },
+  "homepage": "https://github.com/Bexruz-wb/code-#readme"
+}
